@@ -1,12 +1,15 @@
-500 g bread flour 
-7 g instant dry yeast
-25 g granulated sugar 
-100 g whole milk, warm (~85 °F)
-200 g water, warm (~85 °F)
-5 g table salt
-85 g unsalted butter, cubed + very soft (~75-80 °F)
+### Ingredients 
 
-Instructions
+* 500 g bread flour
+* 7 g instant dry yeast
+* 25 g granulated sugar 
+* 100 g whole milk, warm (~85 °F)
+* 200 g water, warm (~85 °F)
+* 5 g table salt
+* 85 g unsalted butter, cubed + very soft (~75-80 °F)
+
+### Instructions
+
 1. Combine the flour, yeast, and sugar in the bowl of a stand mixer.
 2. Evenly combine the dry ingredients using a whisk or fork. 
 3. Add the milk, water, and salt to the bowl. With the mixer fitted with a dough hook attachment, combine the dough on medium low speed until almost homogeneous. 
